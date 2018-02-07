@@ -16,5 +16,35 @@
   "bugs": {
     "url": "https://github.com/AlexShan2008/MVC/issues"
   },
-  "homepage": "https://github.com/AlexShan2008/MVC#readme"
+  "homepage": "https://github.com/AlexShan2008/MVC#readme",
+  "dependencies": {
+    "animate.css": "^3.5.2",
+    "bootstrap": "^4.0.0",
+    "datatables": "^1.10.13",
+    "jquery": "^3.3.1"
+  },
+  "devDependencies": {
+    "@types/bootstrap": "^3.3.37",
+    "@types/jquery": "^3.3.0",
+    "browser-sync": "^2.23.6",
+    "browserify": "^16.0.0",
+    "chai": "^4.1.2",
+    "gulp": "^3.9.1",
+    "gulp-coveralls": "^0.1.4",
+    "gulp-tslint": "^8.1.2",
+    "gulp-typescript": "^3.2.4",
+    "gulp-uglify": "^3.0.0",
+    "handlebars": "^4.0.11",
+    "highcharts": "^6.0.6",
+    "karma": "^2.0.0",
+    "karma-chai": "^0.1.0",
+    "karma-mocha": "^1.3.0",
+    "karma-sinon": "^1.0.5",
+    "mocha": "^5.0.0",
+    "q": "^1.5.1",
+    "run-sequence": "^2.2.1",
+    "sinon": "^4.2.2",
+    "vinyl-buffer": "^1.0.1",
+    "vinyl-source-stream": "^2.0.0"
+  }
 }
